@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
-<h3 align="center">Aspiring IT & Networking Professional | Learning Linux, Cloud & Cybersecurity</h3>
+<h3 align="center">Web Developer | Building modern, responsive websites</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
@@ -8,16 +8,15 @@
 ---
 
 ### 🚀 About Me
-- 🌱 Currently learning **IT Support, Networking & Linux**
-- 🛠️ Using **VS Code**, Git, macOS
-- 🎯 Goal: Become highly skilled like **NetworkChuck**
-- 📚 Studying **Google IT Support + CompTIA path**
+Hi, I’m Thomas, a web developer based in Zambia.
+
+I design and build modern, responsive, and user-friendly websites for businesses, creatives, and individuals. I focus on clean layouts, mobile-first design, and performance to ensure websites not only look good but also work well on all devices.
+Whether you’re starting from scratch or need to improve an existing website, I aim to create solutions that help you build trust, attract clients, and grow your online presence.
 
 ---
 
 ### 🧰 Tech Stack
 <p>
-  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux" />
   <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git" />
   <img src="https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode" />
 </p>
@@ -36,12 +35,12 @@
 ---
 
 ### 📌 Current Focus
-- 🔐 Cybersecurity basics
-- 🌐 Networking fundamentals
-- 🐧 Linux command line
+- Building real-world client websites
+- Improving responsive & mobile-first design
+- Writing clean, maintainable code
+- Growing my professional web development skills
 
 ---
 
 ### 🤝 Connect With Me
-- 💼 LinkedIn: *coming soon*
-- 🌍 Portfolio: *in progress*
+- 🌍 Portfolio:  https://tomyxlungu.github.io/My-Portfolio/
