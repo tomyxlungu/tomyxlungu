@@ -33,25 +33,20 @@ I am also a self-taught IT enthusiast, actively developing my skills through Com
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tomyxlungu&show_icons=true&theme=tokyonight" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tomyxlungu&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomyxlungu&layout=compact&theme=tokyonight" />
-</p>
 ---
 
-### 📌 Current Focus
-- Building real-world client websites
-- Improving responsive & mobile-first design
-- Writing clean, maintainable code
-- Growing my professional web development skills
-
+### 🎯 Current Focus
+- React & Tailwind CSS
+- Networking (Packet Tracer, Wireshark)
+- Linux (Ubuntu) & Terminal
+- IT Support fundamentals
+- CompTIA certification path
+- Building real-world projects
 ---
 
 ### 🤝 Connect With Me
