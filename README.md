@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
-<h3 align="center">Web Developer | Building modern, responsive websites</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
+<h3 align="center">Web Developer | IT Support specilist</h3>
 
 ### 🚀 About Me
 Hi, I’m Thomas, a web developer based in Zambia.
